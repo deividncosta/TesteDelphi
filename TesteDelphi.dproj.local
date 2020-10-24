@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/05/12 11:11:33.000.234,=C:\Users\davis\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/06/17 09:47:21.000.691,=C:\Users\davis\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/10/22 14:50:47.000.199,=C:\Users\davis\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/10/24 00:02:44.000.932,=C:\Users\davis\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/10/24 00:04:42.000.719,D:\Fontes\Projetos\Teste Delphi\unPrincipal.pas=C:\Users\davis\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/10/24 00:04:42.000.719,D:\Fontes\Projetos\Teste Delphi\unPrincipal.fmx=C:\Users\davis\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2020/10/24 00:04:51.000.191,D:\Fontes\Projetos\Teste Delphi\TesteDelphi.dproj=C:\Users\davis\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2020/10/24 10:42:53.869,=D:\Fontes\Projetos\Teste Delphi\Unit1.pas</Transaction>
+    <Transaction>2020/10/24 10:43:09.124,D:\Fontes\Projetos\Teste Delphi\UCliente.pas=D:\Fontes\Projetos\Teste Delphi\Unit1.pas</Transaction>
+    <Transaction>2020/10/24 10:43:25.672,=D:\Fontes\Projetos\Teste Delphi\Unit1.pas</Transaction>
+    <Transaction>2020/10/24 10:43:33.324,D:\Fontes\Projetos\Teste Delphi\UProduto.pas=D:\Fontes\Projetos\Teste Delphi\Unit1.pas</Transaction>
+    <Transaction>2020/10/24 10:48:57.547,=D:\Fontes\Projetos\Teste Delphi\Unit1.pas</Transaction>
+    <Transaction>2020/10/24 10:49:04.342,D:\Fontes\Projetos\Teste Delphi\UVenda.pas=D:\Fontes\Projetos\Teste Delphi\Unit1.pas</Transaction>
+    <Transaction>2020/10/24 11:00:54.310,=D:\Fontes\Projetos\Teste Delphi\Unit1.pas</Transaction>
+    <Transaction>2020/10/24 11:01:24.608,D:\Fontes\Projetos\Teste Delphi\UDMDados.pas=D:\Fontes\Projetos\Teste Delphi\Unit1.pas</Transaction>
+    <Transaction>2020/10/24 11:01:24.608,D:\Fontes\Projetos\Teste Delphi\UDMDados.dfm=D:\Fontes\Projetos\Teste Delphi\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
